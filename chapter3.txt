@@ -1,1 +1,18 @@
 chapter 3 is this my guy.
+
+init 
+status
+add
+commit
+log 
+config 
+diff 
+checkout 
+remote add 
+push 
+rm 
+clone 
+branch
+checkout  
+merge
+ this is after the new info brach 
